@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#222222</color>
+    <color name="primary_dark">#111111</color>
+    <color name="accent">#444444</color>
+    
+    <!-- App UI Colors -->
+    <color name="bg_plain">#FFFFFF</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#555555</color>
+    <color name="text_tertiary">#666666</color>
+    <color name="text_light">#FFFFFF</color>
+    
+    <color name="card_background">#EBFFFFFF</color>
+    <color name="card_border">#14000000</color>
+    
+    <color name="tab_bg_inactive">#F0F0F0</color>
+    <color name="tab_bg_active">#222222</color>
+    <color name="tab_border">#26000000</color>
+    
+    <color name="toggle_pill_bg">#2E000000</color>
+    <color name="ar_badge_on">#8C000000</color>
+    <color name="ar_badge_off">#1A000000</color>
+    
+    <color name="gesture_hint_bg">#66000000</color>
+    
+    <!-- Revamp Colors -->
+    <color name="chip_blue_bg">#E6F1FB</color>
+    <color name="chip_blue_text">#185FA5</color>
+    <color name="chip_green_bg">#EAF3DE</color>
+    <color name="chip_green_text">#3B6D11</color>
+    <color name="chip_amber_bg">#FAEEDA</color>
+    <color name="chip_amber_text">#854F0B</color>
+    <color name="prop_card_bg">#F5F5F3</color>
+    <color name="divider">#E5E5E5</color>
+
+    <color name="transparent">#00000000</color>
+</resources>

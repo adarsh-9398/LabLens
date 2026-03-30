@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AR Model Viewer</string>
+    <string name="scanning_text">Point camera at text…</string>
+    <string name="detected_label">Detected: %1$s</string>
+    <string name="btn_info">ℹ️ Info</string>
+    <string name="btn_close_info">Close</string>
+    <string name="no_model_found">No model found for: %1$s</string>
+    <string name="model_placed">Placed %1$s model!</string>
+    <string name="info_title">About %1$s</string>
+    <string name="ar_not_supported">AR is not supported on this device</string>
+    <string name="camera_permission_needed">Camera permission is required for AR</string>
+    <string name="scan_hint">Scan text to see 3D models</string>
+
+    <!-- Molecule-specific strings -->
+    <string name="loading_molecule">Loading molecule data…</string>
+    <string name="molecule_placed">🧪 %1$s</string>
+    <string name="molecule_formula_label">Formula</string>
+    <string name="molecule_weight_label">Molecular Weight</string>
+    <string name="molecule_iupac_label">IUPAC Name</string>
+    <string name="molecule_fetch_error">Could not fetch molecule data. Check your internet connection.</string>
+    <string name="molecule_no_3d">No 3D structure available for this molecule.</string>
+    <string name="disambiguation_title">Multiple matches found</string>
+    <string name="disambiguation_subtitle">Which molecule did you mean?</string>
+</resources>
